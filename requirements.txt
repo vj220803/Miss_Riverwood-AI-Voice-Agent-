@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc
+openai
+python-dotenv
+elevenlabs
+numpy
+pydub
