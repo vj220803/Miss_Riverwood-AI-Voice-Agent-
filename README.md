@@ -10,7 +10,7 @@ This system demonstrates how **AI + Voice + Memory** can transform real estate c
 ---
 ## 📊 Project Architecture Flowchart
 
-![Architecture Flowchart]()
+![Architecture Flowchart](https://github.com/vj220803/Miss_Riverwood-AI-Voice-Agent-/blob/main/%E2%AD%90%20Features%20-%20visual%20selection.png)
 
 ---
 
